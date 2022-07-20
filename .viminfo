@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1658331244,,"wq!"
 :q!
 |2,0,1658327104,,"q!"
-:wq!
-|2,0,1658326771,,"wq!"
 :q
 |2,0,1658326027,,"q"
 
@@ -32,34 +32,52 @@
 |3,1,1,1,1,0,1658311531,"# khee_repo"
 
 # File marks:
-'0  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,48,8,52,1658327104,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'1  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,49,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'2  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,50,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'3  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,51,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'4  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,52,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'5  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,53,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'6  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,54,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'7  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,55,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'8  10  0  ~/hello-world/webapp/target/webapp.war
-|4,56,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
-'9  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,57,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'0  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,48,8,49,1658331244,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'1  8  50  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp
+|4,49,8,50,1658330316,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp"
+'2  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,50,8,52,1658327104,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'3  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,51,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'4  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,52,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'5  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,53,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'6  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,54,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'7  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,55,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'8  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,56,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'9  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,57,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
 
 # Jumplist (newest first):
+-'  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,49,1658331244,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  50  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,50,1658330316,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  50  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,50,1658330316,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  0  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1658330300,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  0  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1658330300,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,52,1658327104,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,8,52,1658327104,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
@@ -70,202 +88,191 @@
 |4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  10  0  ~/hello-world/webapp/target/webapp.war
-|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
--'  15  0  ~/hello-world/webapp/target/webapp.war
-|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
 -'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658323735,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,1,27,1658323735,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,5,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
 
 # History of marks within files (newest to oldest):
 
 > ~/hello-world/webapp/src/main/webapp/index.jsp
-	*	1658327103	0
-	"	8	52
-	^	8	53
-	.	8	52
+	*	1658331242	0
+	"	8	49
+	^	8	50
+	.	8	49
 	+	6	30
 	+	1	28
 	+	2	12
-	+	8	52
+	+	8	49
+
+> /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/hello-world/webapp/src/main/webapp/index.jsp
+	*	1658330315	0
+	"	8	50
+	^	8	51
+	.	8	50
+	+	8	50
 
 > ~/hello-world/webapp/target/webapp.war
 	*	1658326025	0
