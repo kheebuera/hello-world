@@ -11,10 +11,12 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq!
+|2,0,1658326771,,"wq!"
+:q
+|2,0,1658326027,,"q"
 :q!
 |2,0,1658322709,,"q!"
-:wq!
-|2,0,1658320462,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -30,230 +32,250 @@
 |3,1,1,1,1,0,1658311531,"# khee_repo"
 
 # File marks:
-'0  7  50  ~/.git/config
-|4,48,7,50,1658322709,"~/.git/config"
-'1  1  12  ~/README.md
-|4,49,1,12,1658320462,"~/README.md"
-'2  1  0  ~/README.md
-|4,50,1,0,1658320442,"~/README.md"
-'3  7  50  ~/.git/config
-|4,51,7,50,1658318355,"~/.git/config"
-'4  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,52,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'5  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,53,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
-'6  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,54,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
-'7  1  0  ~/README.md
-|4,55,1,0,1658311534,"~/README.md"
-'8  1  0  ~/README.md
-|4,56,1,0,1658311534,"~/README.md"
-'9  1  0  ~/hello-world/webapp/src/main/webapp/cat
-|4,57,1,0,1658311433,"~/hello-world/webapp/src/main/webapp/cat"
+'0  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,48,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'1  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,49,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'2  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,50,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'3  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,51,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'4  10  0  ~/hello-world/webapp/target/webapp.war
+|4,52,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+'5  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,53,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'6  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,54,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'7  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,55,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'8  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,56,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'9  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,57,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
 
 # Jumplist (newest first):
+-'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658323735,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658323735,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  7  50  ~/.git/config
 |4,39,7,50,1658322709,"~/.git/config"
--'  1  12  ~/README.md
-|4,39,1,12,1658320462,"~/README.md"
--'  1  12  ~/README.md
-|4,39,1,12,1658320462,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1658320442,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1658320442,"~/README.md"
 -'  7  50  ~/.git/config
-|4,39,7,50,1658318355,"~/.git/config"
+|4,39,7,50,1658322709,"~/.git/config"
 -'  7  50  ~/.git/config
-|4,39,7,50,1658318355,"~/.git/config"
+|4,39,7,50,1658322709,"~/.git/config"
 -'  7  50  ~/.git/config
-|4,39,7,50,1658318355,"~/.git/config"
+|4,39,7,50,1658322709,"~/.git/config"
 -'  7  50  ~/.git/config
-|4,39,7,50,1658318355,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1658318320,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1658318320,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1658318320,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1658318320,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1658318320,"~/.git/config"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  3  22  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,3,22,1658317826,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,39,6,7,1658317710,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  1  0  ~/hello-world/webapp/target/webapp/index.jsp
-|4,39,1,0,1658317139,"~/hello-world/webapp/target/webapp/index.jsp"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
--'  210  63  /var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml
-|4,39,210,63,1658314999,"/var/lib/jenkins/workspace/Deploy_on_Container_using_ansible/pom.xml"
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
+-'  7  50  ~/.git/config
+|4,39,7,50,1658322709,"~/.git/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/hello-world/webapp/src/main/webapp/index.jsp
+	*	1658326768	0
+	"	8	52
+	^	8	53
+	.	8	52
+	+	6	30
+	+	1	28
+	+	2	12
+	+	8	52
+
+> ~/hello-world/webapp/target/webapp.war
+	*	1658326025	0
+	"	10	0
+	.	1	0
+	+	1	0
+
+> zipfile:///root/hello-world/webapp/target/webapp.war::index.jsp
+	*	1658326023	0
+	"	1	0
 
 > ~/.git/config
 	*	1658322707	0
@@ -269,15 +291,6 @@
 	.	1	12
 	+	2	0
 	+	1	12
-
-> ~/hello-world/webapp/src/main/webapp/index.jsp
-	*	1658317825	0
-	"	3	22
-	^	3	23
-	.	2	22
-	+	6	30
-	+	1	51
-	+	2	22
 
 > ~/hello-world/webapp/target/webapp/index.jsp
 	*	1658317134	0

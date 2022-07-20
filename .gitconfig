@@ -1,5 +1,7 @@
 # This is Git's per-user configuration file.
 [user]
+	name = kheebuera
+	email = kervin.buera@gmail.com
 # Please adapt and uncomment the following lines:
 #	name = root
 #	email = root@jenkins.(none)
