@@ -11,12 +11,12 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q!
+|2,0,1658327104,,"q!"
 :wq!
 |2,0,1658326771,,"wq!"
 :q
 |2,0,1658326027,,"q"
-:q!
-|2,0,1658322709,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -33,27 +33,29 @@
 
 # File marks:
 '0  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,48,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'1  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,49,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'2  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,50,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'3  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,51,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'4  10  0  ~/hello-world/webapp/target/webapp.war
-|4,52,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
-'5  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,53,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'6  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,54,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'7  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,55,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
-'8  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
-|4,56,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+|4,48,8,52,1658327104,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'1  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,49,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'2  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,50,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'3  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,51,8,51,1658326454,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'4  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,52,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'5  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,53,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'6  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,54,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'7  8  49  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,55,8,49,1658326179,"~/hello-world/webapp/src/main/webapp/index.jsp"
+'8  10  0  ~/hello-world/webapp/target/webapp.war
+|4,56,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
 '9  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,57,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
 
 # Jumplist (newest first):
+-'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,8,52,1658327104,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  8  52  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,8,52,1658326771,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  8  51  ~/hello-world/webapp/src/main/webapp/index.jsp
@@ -66,6 +68,8 @@
 |4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,2,12,1658326161,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  10  0  ~/hello-world/webapp/target/webapp.war
 |4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
 -'  10  0  ~/hello-world/webapp/target/webapp.war
@@ -82,6 +86,38 @@
 |4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
 -'  10  0  ~/hello-world/webapp/target/webapp.war
 |4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  10  0  ~/hello-world/webapp/target/webapp.war
+|4,39,10,0,1658326027,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
+-'  15  0  ~/hello-world/webapp/target/webapp.war
+|4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
 -'  15  0  ~/hello-world/webapp/target/webapp.war
 |4,39,15,0,1658326006,"~/hello-world/webapp/target/webapp.war"
 -'  15  0  ~/hello-world/webapp/target/webapp.war
@@ -102,6 +138,8 @@
 |4,39,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  2  12  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,2,12,1658325561,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,1,27,1658325514,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  1  27  ~/hello-world/webapp/src/main/webapp/index.jsp
@@ -136,6 +174,12 @@
 |4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  6  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,6,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  5  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,5,7,1658323704,"~/hello-world/webapp/src/main/webapp/index.jsp"
+-'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
+|4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
@@ -150,50 +194,6 @@
 |4,39,5,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
 -'  4  7  ~/hello-world/webapp/src/main/webapp/index.jsp
 |4,39,4,7,1658323230,"~/hello-world/webapp/src/main/webapp/index.jsp"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
--'  7  50  ~/.git/config
-|4,39,7,50,1658322709,"~/.git/config"
 -'  7  50  ~/.git/config
 |4,39,7,50,1658322709,"~/.git/config"
 -'  7  50  ~/.git/config
@@ -258,7 +258,7 @@
 # History of marks within files (newest to oldest):
 
 > ~/hello-world/webapp/src/main/webapp/index.jsp
-	*	1658326768	0
+	*	1658327103	0
 	"	8	52
 	^	8	53
 	.	8	52
