@@ -1,4 +1,3 @@
-<h1>DEPLOY TO DOCKER CONTAINER USING ANSIBLE</h1>
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
@@ -13,7 +12,7 @@
 
     <button type="submit">Login</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember"> Remember me!
+      <input type="checkbox" checked="checked" name="remember"> Forget Me!
     </label>
   </div>
 
