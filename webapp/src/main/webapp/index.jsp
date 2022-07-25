@@ -12,7 +12,7 @@
 
     <button type="submit">Login</button>
     <label>
-      <input type="checkbox" checked="checked" name="remember"> Forget Me!
+      <input type="checkbox" checked="checked" name="remember"> Forget Me! Remember 123!
     </label>
   </div>
 
